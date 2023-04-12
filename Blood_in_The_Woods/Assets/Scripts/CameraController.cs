@@ -16,7 +16,7 @@ public class CameraController : MonoBehaviour
 
     private float panBorderThicknessHeight;
     private float panBorderThicknessWidth;
-    private float minY = 15;
+    private float minY = -100;
     private float maxY = 100;
     private Vector3 newPosition;
     private Quaternion newRotation;
